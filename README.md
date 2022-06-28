@@ -30,7 +30,8 @@ Tugas ini berisi tentang :
 ## Tugas 6
 Tugas ini berisi push tugas ke repository ini dan membuat README.md nya.
 
-## Tugas 7 (Load Test/Performance Test dengan JMeter)
-Tugas ini berisi tentang :
-- Buat Jmeter untuk Kolak Project, login (kredensial masing2), melakukan kolak up + cek status.
-- File pada tugas ini adalah **tugas7.jmx**
+# Tugas 7
+Deskripsi tugas: upload screenshot hasil console repository di Github menggunakan Jenkins. 
+
+# Tugas 8
+Deskripsi tugas: menambahkan file.jmx yang dikerjakan di kelas.
